@@ -1,1 +1,1 @@
-web: rails server
+web: bin/setup rails server
